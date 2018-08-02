@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyString
+  location: MyString
+  date: 2018-08-01 23:40:35
+  recurring: MyString
+
+two:
+  content: MyString
+  location: MyString
+  date: 2018-08-01 23:40:35
+  recurring: MyString
